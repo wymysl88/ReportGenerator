@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3rqg3kjeXcPWwTaSI07LjfQono4waMHYtZ5ZOBcc0gkb/t2huRxgAWZ+FUTAZbRIJaAqykWMvM3NRLUUYxvlew==",
+  "success": true,
+  "projectFilePath": "D:\\Repos\\ReportGeneratorRepo\\ReportGenerator\\ReportGenerator.Models\\ReportGenerator.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wymys\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

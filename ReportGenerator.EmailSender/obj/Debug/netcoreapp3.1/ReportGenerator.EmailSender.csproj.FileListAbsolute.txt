@@ -1,0 +1,9 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\bin\Debug\netcoreapp3.1\ReportGenerator.EmailSender.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\bin\Debug\netcoreapp3.1\ReportGenerator.EmailSender.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\bin\Debug\netcoreapp3.1\ReportGenerator.EmailSender.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.EmailSender\obj\Debug\netcoreapp3.1\ReportGenerator.EmailSender.csprojAssemblyReference.cache

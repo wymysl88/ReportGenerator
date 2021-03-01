@@ -1,0 +1,9 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\bin\Debug\netcoreapp3.1\ReportGenerator.StorageManager.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\bin\Debug\netcoreapp3.1\ReportGenerator.StorageManager.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\bin\Debug\netcoreapp3.1\ReportGenerator.StorageManager.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.StorageManager\obj\Debug\netcoreapp3.1\ReportGenerator.StorageManager.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\bin\Debug\netcoreapp3.1\ReportGenerator.Models.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\bin\Debug\netcoreapp3.1\ReportGenerator.Models.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\bin\Debug\netcoreapp3.1\ReportGenerator.Models.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.Models\obj\Debug\netcoreapp3.1\ReportGenerator.Models.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\Microsoft.Azure.Cosmos.ServiceInterop.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.csprojAssemblyReference.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\ReportGenerator.Models.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\bin\Debug\netcoreapp3.1\ReportGenerator.Models.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.DatabaseManager\obj\Debug\netcoreapp3.1\ReportGenerator.DatabaseManager.csproj.CopyComplete

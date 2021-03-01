@@ -1,0 +1,12 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\bin\Debug\netcoreapp3.1\ReportGenerator.FileCreator.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\bin\Debug\netcoreapp3.1\ReportGenerator.FileCreator.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\bin\Debug\netcoreapp3.1\ReportGenerator.FileCreator.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.csprojAssemblyReference.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\bin\Debug\netcoreapp3.1\ReportGenerator.Models.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\bin\Debug\netcoreapp3.1\ReportGenerator.Models.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.FileCreator\obj\Debug\netcoreapp3.1\ReportGenerator.FileCreator.csproj.CopyComplete

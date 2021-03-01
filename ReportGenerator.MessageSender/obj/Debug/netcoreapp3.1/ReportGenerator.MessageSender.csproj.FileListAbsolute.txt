@@ -1,0 +1,9 @@
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.AssemblyInfoInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.AssemblyInfo.cs
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.csproj.CoreCompileInputs.cache
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\bin\Debug\netcoreapp3.1\ReportGenerator.MessageSender.deps.json
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\bin\Debug\netcoreapp3.1\ReportGenerator.MessageSender.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\bin\Debug\netcoreapp3.1\ReportGenerator.MessageSender.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.dll
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.pdb
+D:\Repos\ReportGenerator\ReportGenerator\ReportGenerator.MessageSender\obj\Debug\netcoreapp3.1\ReportGenerator.MessageSender.csprojAssemblyReference.cache
